@@ -1,57 +1,74 @@
-# Ontwerpkader: Vertrekpunten & Aandachtspunten
+# Ontwerpkader: Identiteit, Kleur & Beleving
 
-Dit document definieert de overkoepelende visie voor de woning. De ambitie is om een samenhangende woonomgeving te creëren die rust brengt door continuïteit, functionele logica en een bewuste omgang met prikkels.
+Dit document vormt de visuele en conceptuele ruggengraat van het ontwerp. Het huis wordt benaderd als één samenhangend geheel dat rust, continuïteit en vertraging ondersteunt.
 
 ---
 
 ## Snelmenu
-* [Samenhang & Materiaalgebruik](#samenhang--materiaalgebruik)
-* [Functionele Benadering](#functionele-benadering)
-* [Prikkelgevoeligheid & Rust](#prikkelgevoeligheid--rust)
-* [Kleurpalet & Structuur](#kleurpalet--structuur)
-* [Omgang met Bestaande Elementen](#omgang-met-bestaande-elementen)
-* [Gebruik van Referenties](#beelden-en-referenties)
+* [Kernidentiteit](#kernidentiteit-authentiek-organisch-natuur)
+* [Kleurpalet & Structuur](#kleurpalet-en-structurele-toepassing)
+* [Materialisatie & Textuur](#materialisatie-en-textuur)
+* [Functionele Toestanden](#functionele-logica)
+* [Badkamer als Referentie](#referentiebeeld-de-badkamer)
+* [Ontwerpmethodiek](#beelden-en-mood-boards)
 
 ---
 
-## Samenhang & Materiaalgebruik
-De woning wordt benaderd als één geheel in plaats van een reeks losse kamers. 
+## Kernidentiteit: Authentiek, Organisch & Natuur
+De woning krijgt haar eigenheid door drie centrale pijlers:
 
-* **Identiteit:** Een duidelijke, onderliggende identiteit zorgt voor een vanzelfsprekende woonervaring.
-* **Palet:** Er wordt gewerkt met een beperkt en herhaalbaar kleuren- en materiaalpalet.
-* **Variatie:** Variatie wordt gezocht binnen de grenzen van dit palet om de voorspelbaarheid en rust te waarborgen.
+### Authentiek
+Bestaande elementen zijn geen beperking, maar karaktervolle dragers van het ontwerp.
+* **Behoud:** De vloer, het houten plafond, vintage verlichting en bestaande kasten in de leefruimte blijven behouden.
+* **Dialoog:** Vernieuwingen (zoals Tiffany-achtige armaturen) worden gekozen in functie van deze authentieke elementen.
 
-## Functionele Benadering
-Elke ruimte wordt ontworpen op basis van de activiteit of de staat die ze ondersteunt. Deze logica stuurt de keuzes voor licht, textuur en kleurintensiteit:
+### Organisch
+Vorm en gevoel zijn gericht op zachtheid en tactiliteit.
+* **Vormgeving:** Gebruik van zachte lijnen en afgeronde volumes (bijv. in de douche of het bad).
+* **Beleving:** Muren moeten "ademen" en licht vangen door subtiele texturen.
 
-| Zone Type | Focus | Kenmerken |
+### Natuurverbonden
+Natuur is een structureel onderdeel, geen decoratie.
+* **Integratie:** Planten worden verwerkt in nissen of wandoplossingen om rust en ritme te brengen.
+* **Functie:** Groen dient als essentieel tegengewicht voor de architectuur en ondersteunt ontspanning.
+
+## Kleurpalet en Structurele Toepassing
+Het palet is beperkt en herhaalbaar om voorspelbaarheid en visuele rust te garanderen.
+
+| Kleurfamilie | Type | Rol in het Ontwerp |
 | :--- | :--- | :--- |
-| **Actieve zones** | Aankomen, bewegen, verbinden | Helderder en tactieler materiaalgebruik. |
-| **Rustzones** | Ontspannen, herstellen, focussen | Zachter, gedempter en visueel eenvoudiger. |
+| **Diepgroen** | Mos/Petrol | Dragende rustkleur; ondersteunt focus. |
+| **Goud & Messing** | Accent | Zorgt voor een sfeer van ingetogen luxe. |
+| **Oudroze & Huid** | Nuance | Brengt menselijkheid, zachtheid en veiligheid. |
+| **Camel & Bruin** | Aarding | Verbindt het palet met hout en natuurlijke materialen. |
+| **Warme Neutrals** | Basis | Dragers van het natuurlijke licht; bieden ademruimte. |
 
-## Prikkelgevoeligheid & Rust
-Het ontwerp fungeert als ondersteuning voor het zenuwstelsel door visuele overbelasting te vermijden.
+> **Prikkelgevoeligheid:** Variatie ontstaat door nuance in textuur en licht, niet door sterke kleurcontrasten. Dit voorkomt visuele overbelasting.
 
-* **Visuele Rust:** Gebruik van een beperkt aantal kleurfamilies en zachte contrasten.
-* **Textuur over Kleur:** Variatie wordt gecreëerd door materiaalverschillen in plaats van harde kleurbreuken.
-* **Zonering:** Duidelijke hiërarchie in ruimtes zonder visuele ruis.
+## Materialisatie en Textuur
+Muren en oppervlakken krijgen diepgang zonder druk te worden:
+* **Wandafwerking:** Gebruik van korrelverf of kalkachtige texturen voor gelaagdheid.
+* **Tactiliteit:** Focus op materialen die uitnodigen tot aanraking en een warm gevoel geven.
 
-## Kleurpalet & Structuur
-Het palet bestaat uit warme, natuurlijke tinten die een "geaard" gevoel geven. Kleur wordt structureel ingezet om functies zoals herstel en focus te ondersteunen.
+## Functionele Logica
+De woning wordt ingedeeld op basis van "toestanden" in plaats van enkel kamers. Elke ruimte ondersteunt een specifieke staat:
+1. **Aankomen & Landen**
+2. **Bewegen & Verbinden**
+3. **Verblijven & Focussen** (Dominant in werk/leefzones)
+4. **Ontspannen & Ontladen** (Dominant in badkamer/leefzones)
+5. **Herstellen & Slapen** (Dominant in slaapzones)
 
-* **Basis:** Warme neutrals die het natuurlijke licht dragen.
-* **Rustkleur:** Groen als dragende factor.
-* **Nuance:** Roze- en huidtinten voor verzachting, aangevuld met warme aardetonen.
+## Referentiebeeld: De Badkamer
+De badkamer dient als blauwdruk voor de gewenste sfeer in de rest van de woning:
+* Combinatie van **eenvoud en luxe**.
+* Zachte kleuren, afgeronde vormen en overvloedig licht.
+* Toekomstige versterking door de integratie van **levend groen** en natuurlijke accenten.
 
-## Omgang met Bestaande Elementen
-Authentieke elementen in de woning zijn de vaste ankerpunten van het ontwerp.
-* Nieuwe toevoegingen zoeken aansluiting bij de bestaande kwaliteiten.
-* Het doel is dat oud en nieuw elkaar versterken zonder met elkaar te concurreren.
-
-## Beelden en Referenties
-Referenties en moodboards worden ingezet als instrument, niet als esthetisch einddoel.
-* **Doel:** Verduidelijken van relaties tussen kleurverhoudingen, densiteit en ritme.
-* **Toetsing:** Het moodboard helpt bij het maken van consistente keuzes die binnen het grotere geheel passen.
+## Beelden en Mood Boards
+Referentiemateriaal is een instrument voor de interieurarchitect om keuzes te toetsen op:
+* Kleurverhoudingen en lichtkwaliteit.
+* Materiaalgevoel en ritme.
+* Er blijft bewust ruimte voor professionele interpretatie binnen dit vastgestelde kader.
 
 ---
-> **Einddoel:** Een woning die ondersteunt en ruimte laat voor het leven, zonder zelf constant om aandacht te vragen.
+**Einddoel:** Een huis dat niet opvalt, maar klopt. Een omgeving die niet om aandacht vraagt, maar ruimte laat voor het leven.
