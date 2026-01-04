@@ -1,46 +1,15 @@
-# Beschrijving van het Proces: Van Afstemming naar Ontwerp
+## Werkwijze
 
-Dit document beschrijft de methodiek van het ontwerptraject. De focus ligt niet op directe oplossingen, maar op het creëren van een gedeeld kader waarin betekenis altijd voorafgaat aan vorm.
+Het proces vertrekt niet vanuit oplossingen, maar vanuit afstemming. Eerst wordt ruimte gemaakt om te begrijpen wat er werkelijk gezocht wordt, nog vóór er keuzes gemaakt worden. Dat gebeurt door gesprek, reflectie en het gezamenlijk verkennen van taal, beelden en intenties.
 
----
+In een eerste fase wordt bewust breed verzameld. Beelden, indrukken, referenties en woorden mogen naast elkaar bestaan zonder meteen beoordeeld te worden. Deze fase is exploratief en associatief: ze dient om patronen, herhaling en onderliggende voorkeuren zichtbaar te maken, niet om al te beslissen.
 
-## Snelmenu
-* [Fase 1: Exploratie & Verzameling](#fase-1-exploratie-verzameling)
-* [Fase 2: Duiding & Relaties](#fase-2-duiding-relaties)
-* [Fase 3: Verfijning & Hiërarchie](#fase-3-verfijning-hierarchie)
-* [Kernprincipes van het Proces](#kernprincipes-van-het-proces)
-* [Het Resultaat: Een Gedeeld Kader](#het-resultaat-een-gedeeld-kader)
+Vervolgens verschuift de aandacht van verzameling naar duiding. Niet de afzonderlijke elementen staan centraal, maar de relaties ertussen. Wat keert telkens terug? Wat draagt het geheel, en wat is eerder contextueel of persoonlijk? Door hierover expliciet te spreken, ontstaat geleidelijk een gemeenschappelijk begrip van identiteit, gevoeligheden en richting.
 
----
+Pas daarna begint het verfijnen. Dit gebeurt niet door alles te reduceren tot één antwoord, maar door hiërarchie aan te brengen. Elementen krijgen een rol: sommige zijn dragend, andere ondersteunend, weer andere mogen aanwezig blijven zonder sturend te zijn. Dit maakt het geheel leesbaar en werkbaar, zonder de rijkdom van het materiaal te verliezen.
 
-## Fase 1: Exploratie & Verzameling
-In de beginfase wordt er bewust breed verzameld zonder direct te oordelen of te beslissen.
+Een belangrijk kenmerk van het proces is dat betekenis voorafgaat aan vorm. Kleur, materiaal en sfeer worden niet gekozen omdat ze esthetisch aantrekkelijk zijn, maar omdat ze iets ondersteunen: rust, focus, geborgenheid, continuïteit. Ontwerpkeuzes worden zo verankerd in gebruik en beleving, niet in stijl.
 
-* **Input:** Woorden, beelden, indrukken en referenties.
-* **Doel:** Het zichtbaar maken van patronen, herhalingen en onderliggende voorkeuren.
-* **Karakter:** Exploratief en associatief; alles mag naast elkaar bestaan.
+Het proces is iteratief en dialogisch. In plaats van één vast moment van briefing, ontstaat er geleidelijk een gedeeld kader dat scherper wordt naarmate het gesprek vordert. Dat kader begrenst niet, maar maakt net ruimte voor creativiteit doordat duidelijk wordt wat vastligt en waar speelruimte zit.
 
-## Fase 2: Duiding & Relaties
-De focus verschuift van het verzamelen van losse elementen naar het begrijpen van de samenhang.
-
-* **Analyse:** Wat keert telkens terug? Wat is de kern en wat is bijzaak?
-* **Dialoog:** Door expliciet te spreken over deze relaties, ontstaat een gemeenschappelijk begrip van identiteit en richting.
-
-## Fase 3: Verfijning & Hiërarchie
-Verfijning betekent hier niet het schrappen van rijkdom, maar het aanbrengen van een duidelijke rolverdeling:
-
-1. **Dragende elementen:** De fundamenten van het ontwerp.
-2. **Ondersteunende elementen:** Versterken de dragende structuur.
-3. **Aanwezige elementen:** Elementen die mogen blijven zonder de richting te sturen.
-
-## Kernprincipes van het Proces
-Het proces steunt op een aantal fundamentele uitgangspunten die de kwaliteit van het eindresultaat bewaken:
-
-* **Betekenis vóór Vorm:** Keuzes voor kleur, materiaal en sfeer worden niet gemaakt op basis van esthetiek, maar op basis van wat ze ondersteunen (rust, focus, geborgenheid).
-* **Iteratief & Dialogisch:** Het kader wordt gaandeweg scherper. Er is geen sprake van één statisch briefingmoment, maar van een evoluerend gesprek.
-* **Niet-Lineair:** Er wordt constant geschakeld tussen intuïtie (gevoel) en benoeming (precisie).
-
-## Het Resultaat: Een Gedeeld Kader
-Het einddoel van dit proces is een werkbasis die zowel persoonlijk als professioneel is.
-
-> **De Uitkomst:** Een kader dat niet begrenst, maar juist ruimte maakt voor creativiteit. Het geeft de ontwerper de vrijheid en het vertrouwen om met scherpte verder te werken binnen een duidelijke context.
+Tot slot is dit geen lineair traject, maar een meebewegend ontwerpgesprek. Er wordt telkens geschakeld tussen gevoel en precisie, tussen intuïtie en benoeming. Zo ontstaat een werkbasis die zowel persoonlijk als professioneel is, en die een ontwerper toelaat om met vertrouwen, vrijheid en scherpte verder te werken.
